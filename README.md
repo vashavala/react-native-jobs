@@ -17,3 +17,6 @@ npx create-expo-app -e with-router
 ## procedure
 + create a expo repo: npx create-expo-app@latest -e with-router ./
 + install package: npm install expo-font axios react-native-dotenv
+
+## project link(require expo app)
++ https://expo.dev/accounts/vasha/projects/react-native-jobs/updates/835e2b96-36c9-4ee2-9cab-5b06e629e221
